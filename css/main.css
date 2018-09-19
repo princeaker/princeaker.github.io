@@ -14,8 +14,8 @@
  margin: 2em;
 }
 .about img{
- height: 80%;
-    width: 80%;
+ height: 75%;
+    width: 75%;
     border-radius: 50%
 }
 
@@ -33,4 +33,14 @@
 
 h2.section {
     text-align: center;
+}
+
+[class*="col-"] {
+    margin-top: 50px;
+}
+
+#project1 {
+	padding: 2rem;
+	margin-left: 1em;
+	margin-right: 1em;
 }
