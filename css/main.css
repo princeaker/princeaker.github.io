@@ -1,0 +1,36 @@
+.banner {
+
+  background-image:url('../images/court-prather-701624-unsplash.jpg');
+  background-size:cover;
+}
+
+.about{
+ margin: 4em 0;
+ padding: 1em;
+ position: relative;
+}
+.about h1{
+ color:#F97300;
+ margin: 2em;
+}
+.about img{
+ height: 80%;
+    width: 80%;
+    border-radius: 50%
+}
+
+.about .desc{
+ padding: 2em;
+ border-left:4px solid #10828C;
+}
+.about .desc h3{
+ color: #10828C;
+}
+.about .desc p{
+ line-height:2;
+ color:#888;
+}
+
+h2.section {
+    text-align: center;
+}
