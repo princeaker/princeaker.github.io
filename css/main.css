@@ -30,6 +30,9 @@
  line-height:2;
  color:#888;
 }
+.contact {
+	margin-top: 2em;
+}
 
 h2.section {
     text-align: center;
@@ -43,4 +46,24 @@ h2.section {
 	padding: 2rem;
 	margin-left: 1em;
 	margin-right: 1em;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+.fa-envelope {
+	color:#f44336;
+
+}
+
+.fa-github {
+	color: black;
+}
+.fa-linkedin {
+	color: #0077B5;
 }
