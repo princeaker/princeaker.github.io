@@ -43,7 +43,13 @@ h2.section {
 }
 
 #project1 {
-	padding: 2rem;
+	padding: 1rem;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+#project2 {
+	padding: 1rem;
 	margin-left: 1em;
 	margin-right: 1em;
 }
